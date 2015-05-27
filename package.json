@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "commonform-serve-postgres": "commonform/commonform-serve-postgres"
+    "commonform-serve-postgres": "*"
   },
   "engines": {
     "iojs": "2.x"
