@@ -1,1 +1,1 @@
-web: commonform-serve-sqldown $DATABASE_URL
+web: commonform-serve-postgres $DATABASE_URL
