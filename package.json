@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "commonform-serve-postgres": "commonform/commonform-serve-postgres"
+  },
+  "engines": {
+    "iojs": "2.x"
   }
 }
