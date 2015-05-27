@@ -1,1 +1,1 @@
-web: commonform-serve-postgres $DATABASE_URL
+web: commonform-serve-postgres $DATABASE_URL --port $PORT
