@@ -1,4 +1,5 @@
 {
+  "private": true,
   "dependencies": {
     "commonform-serve-postgres": "commonform/commonform-serve-postgres"
   },
